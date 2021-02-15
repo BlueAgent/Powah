@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "powah:uraninite_ore"
+    "#forge:ores/uraninite/normal",
+    "#forge:ores/uraninite/poor",
+    "#forge:ores/uraninite/dense"
   ]
 }
